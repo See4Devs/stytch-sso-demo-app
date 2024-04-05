@@ -40,8 +40,8 @@ npm start
 
 - Using Magic Link
 
-![Singing in with Magic Link](https://i.imgur.com/bgwgACJ.gifv)
+![Singing in with Magic Link](https://i.imgur.com/bgwgACJ.gif)
 
 - Using SSO with Okta
 
-![SSO from Okta application](https://i.imgur.com/Q00ok25.gifv)
+![SSO from Okta application](https://i.imgur.com/Q00ok25.gif)
