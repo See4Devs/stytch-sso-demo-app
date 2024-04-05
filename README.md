@@ -1,4 +1,4 @@
-# Demo application using Stytch Authenciation Provider
+# Demo application using Stytch Authentication Provider
 
 You need to make sure you have the following
 
